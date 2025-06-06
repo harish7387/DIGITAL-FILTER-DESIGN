@@ -26,5 +26,5 @@ After running the simulation using Icarus Verilog (a free Verilog compiler), we 
 This project helped us understand how FIR filters work and how we can use Verilog to design real digital systems. It showed how inputs are processed step by step using basic mathematical operations like multiplication and addition. It also taught us how to simulate digital circuits and view their behavior over time using waveform tools. FIR filters are useful in many applications like audio processing, image enhancement, and communication systems. By completing this project, we learned how to create a useful signal processing component that can be used in real hardware systems.
 
 OUTPUT ::
-       
+       ![Image](https://github.com/user-attachments/assets/49bfbcaa-d4c1-490d-98bf-26f0b40e918f)
 
